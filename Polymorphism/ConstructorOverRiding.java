@@ -29,7 +29,7 @@ public class ConstructorOverRiding {
     
     public static void main(String arg[]){
         //Constructor Running Call
-        SampleSubClass sample = new SampleSubClass();
+        new SampleSubClass();
 
     }
 

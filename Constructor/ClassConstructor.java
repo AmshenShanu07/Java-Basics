@@ -13,7 +13,7 @@ public class ClassConstructor {
     
     public static void main(String ar[]){
         //Place where constructor runs
-        SampleClass sample = new SampleClass();
+        new SampleClass();
 
     }
 
