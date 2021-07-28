@@ -47,4 +47,3 @@ In any object-oriented programming language, Overriding is a feature that allows
 
 Its a way of calling the main class from sub classed, In some cases there will be same named function with different actions So OverRiding helps us to call the functions of base class from sub class using a keyword super
 
-### Overriding Constructor
